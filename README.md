@@ -1,0 +1,5 @@
+- This is my final year academic project
+- here, we have tried to detect the presence of water on floor and upon detection a message is being sent to a telegram bot using openCV python.
+- using thresholding on image feed from camera to trace out the contours and further filteration.
+- Limitation:
+- Further fileteration and training is necessary for more precison of detection.
